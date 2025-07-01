@@ -1,0 +1,92 @@
+[
+    {
+        "text": "كيفك يا زول؟ ماشي وين؟",
+        "label": "Sudanese",
+        "context": "Casual greeting, common in Sudan."
+    },
+    {
+        "text": " الحمد لله",
+        "label": "MSA",
+        "context": "Standard Egyptian Arabic greeting."
+    },
+    {
+        "text": "مساء الخير يا صديقي، كيف حالك؟",
+        "label": "MSA",
+        "context": "Modern Standard Arabic formal greeting."
+    },
+    {
+        "text": "الشاي بلبن ما بنفارقوا.",
+        "label": "Sudanese",
+        "context": "Referring to milk tea, a staple in Sudan, implying it's inseparable."
+    },
+    {
+        "text": " انني احب الشاي باللبن",
+        "label": "MSA",
+        "context": "Referring to milk tea, a Modern Standard Arabic, implying it's inseparable."
+    },
+    {
+        "text": "كيفك اليوم؟",
+        "label": "Sudanese",
+        "context": "Common greeting in Sudanese dialects."
+    },
+    {
+        "text": "أنا بخير، شكرا جزيلا.",
+        "label": "MSA",
+        "context": "Formal Modern Standard Arabic response."
+    },
+    {
+        "text": "ياخي النور طفى ليه؟",
+        "label": "Sudanese",
+        "context": "Informal question about a power outage, 'ya khei' is Sudanese."
+    },
+    {
+        "text": "الحق شوف لينا الكهربا مالها؟",
+        "label": "Sudanese",
+        "context": "Informal question about electricity, common Sudanese phrasing."
+    },
+    {
+        "text": "لا أعرف سبب انقطاع التيار الكهربائي.",
+        "label": "MSA",
+        "context": "Formal Modern Standard Arabic statement about power outage."
+    },
+    {
+        "text": "أكلت ويكة إمبارح.",
+        "label": "Sudanese",
+        "context": "Mentioning Waika, a famous Sudanese dish. 'إمبارح' is common."
+    },
+    {
+        "text": "أكلت الكسرة امبارح.",
+        "label": "Sudanese",
+        "context": "Mentioning Kisra, a Sudanese staple. 'امبارح' is common."
+    },
+    {
+        "text": "القرش الأبيض ينفع في اليوم الأسود.",
+        "label": "Sudanese",
+        "context": "Proverb: Save for a rainy day. Literal: The white coin benefits on the black day."
+    },
+    {
+        "text": "ضربني وبكى سبقني واشتكى.",
+        "label": "Sudanese",
+        "context": "Proverb: He hit me and cried, then complained before me. Refers to someone who wrongs you and then quickly plays the victim."
+    },
+    {
+        "text": "الفات مات.",
+        "label": "Sudanese",
+        "context": "Proverb: What has passed is dead. Meaning: Let bygones be bygones."
+    },
+    {
+        "text": " ارح نمش.",
+        "label": "Sudanese",
+        "context": "Travel:Sudanes:let us go."
+    },
+    {
+        "text": " قولك شنو",
+        "label": "Sudanese",
+        "context": "what you say."
+    },
+    {
+        "text": "انت ما نصيح",
+        "label": "Sudanese",
+        "context": "Are you not OK."
+    }
+]
